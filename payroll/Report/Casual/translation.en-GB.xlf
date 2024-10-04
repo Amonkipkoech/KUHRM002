@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-GB" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 3348419482 - NamedType 107086291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <target>3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Deductions Summary 2 - NamedType GroupOrder</note>
+        </trans-unit>
+        <trans-unit id="Report 114593147 - NamedType 107086291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <target>3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual - Payments Summary - NamedType GroupOrder</note>
+        </trans-unit>
+        <trans-unit id="Report 2587926335 - NamedType 107086291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <target>3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Company Payslip - NamedType GroupOrder</note>
+        </trans-unit>
+        <trans-unit id="Report 4222843814 - NamedType 107086291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <target>3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Deductions Summary 2 - NamedType GroupOrder</note>
+        </trans-unit>
+        <trans-unit id="Report 3981273083 - NamedType 107086291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <target>3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP - Payments Summary - NamedType GroupOrder</note>
+        </trans-unit>
+        <trans-unit id="Report 896003519 - NamedType 107086291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <target>3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-Company Payslip - NamedType GroupOrder</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

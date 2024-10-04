@@ -1,0 +1,224 @@
+// table 50002 "HRM-Disciplinary Cases (B)"
+// {
+//     //LookupPageID = "FIN-Petty Cash";
+
+//     fields
+//     {
+//         field(1; "Case Number"; Code[20])
+//         {
+//         }
+//         field(3; "Date of Complaint"; Date)
+//         {
+//         }
+//         field(4; "Type Complaint"; Code[20])
+//         {
+//             NotBlank = true;
+//             TableRelation = "HRM-Lookup Values".Code WHERE(Type = CONST("Disciplinary Case"));
+//         }
+//         field(5; "Recommended Action"; Code[20])
+//         {
+//             TableRelation = "HRM-Lookup Values".Code WHERE(Type = CONST("Disciplinary Action"));
+//         }
+//         field(6; "Description of Complaint"; Text[250])
+//         {
+//         }
+//         field(7; Accuser; Code[10])
+//         {
+//             TableRelation = "HRM-Employee C"."No.";
+
+//             trigger OnValidate()
+//             begin
+//                 IF "Accused Employee" = Accuser THEN
+//                     ERROR('An employee cannot accuse his/her self');
+
+//                 Emp.RESET;
+//                 Emp.SETRANGE(Emp."No.", Accuser);
+//                 IF Emp.FIND('-') THEN
+//                     "Accuser Name" := Emp."First Name" + ' ' + Emp."Middle Name" + ' ' + Emp."Last Name";
+//             end;
+//         }
+//         field(8; "Witness #1"; Code[20])
+//         {
+//             TableRelation = "HRM-Employee C".No.;
+
+//             trigger OnValidate()
+//             begin
+//                 Emp.RESET;
+//                 Emp.SETRANGE(Emp."No.","Witness #1");
+//                 IF Emp.FIND('-')THEN
+//                 "Witness #1 Name":=Emp."First Name"+' '+Emp."Middle Name"+' '+Emp."Last Name";
+//             end;
+//         }
+//         field(9;"Witness #2";Code[20])
+//         {
+//             TableRelation = "HRM-Employee C".No.;
+
+//             trigger OnValidate()
+//             begin
+//                 Emp.RESET;
+//                 Emp.SETRANGE(Emp."No.","Witness #2");
+//                 IF Emp.FIND('-')THEN
+//                 "Witness #2  Name":=Emp."First Name"+' '+Emp."Middle Name"+' '+Emp."Last Name";
+//             end;
+//         }
+//         field(10;"Action Taken";Code[20])
+//         {
+//             TableRelation = "HRM-Lookup Values".Code WHERE (Type=CONST(Disciplinary Action));
+//         }
+//         field(11;"Date To Discuss Case";Date)
+//         {
+//         }
+//         field(12;"Document Link";Text[200])
+//         {
+//         }
+//         field(13;"Disciplinary Remarks";Code[50])
+//         {
+//         }
+//         field(14;Comments;Text[250])
+//         {
+//         }
+//         field(15;"Case Discussion";Boolean)
+//         {
+//         }
+//         field(16;"Body Handling The Complaint";Code[100])
+//         {
+//             TableRelation = "HRM-Committees (B)".Code;
+//         }
+//         field(17;Recomendations;Code[10])
+//         {
+//         }
+//         field(18;"HR/Payroll Implications";Integer)
+//         {
+//         }
+//         field(19;"Support Documents";Option)
+//         {
+//             OptionMembers = Yes,No;
+//         }
+//         field(20;"Policy Guidlines In Effect";Code[10])
+//         {
+//             TableRelation = HRM-Policies.Code;
+//         }
+//         field(21;Status;Option)
+//         {
+//             Editable = false;
+//             OptionCaption = 'New,Pending Approval,Approved';
+//             OptionMembers = New,"Pending Approval",Approved;
+//         }
+//         field(22;"Mode of Lodging the Complaint";Text[30])
+//         {
+//         }
+//         field(23;"No. Series";Code[20])
+//         {
+//         }
+//         field(24;"Accused Employee";Code[30])
+//         {
+//             TableRelation = "HRM-Employee C".No.;
+
+//             trigger OnValidate()
+//             begin
+//                 Emp.RESET;
+//                 Emp.SETRANGE(Emp."No.","Accused Employee");
+//                 IF Emp.FIND('-')THEN
+//                 "Accused Employee Name":=Emp."First Name"+' '+Emp."Middle Name"+' '+Emp."Last Name";
+//             end;
+//         }
+//         field(25;Selected;Boolean)
+//         {
+//         }
+//         field(26;"Closed By";Code[20])
+//         {
+//         }
+//         field(3963;"Responsibility Center";Code[10])
+//         {
+//             TableRelation = "FIN-Responsibility Center BR";
+//         }
+//         field(3964;"Accuser Name";Text[40])
+//         {
+//         }
+//         field(3965;"Witness #1 Name";Text[50])
+//         {
+//         }
+//         field(3966;"Witness #2  Name";Text[50])
+//         {
+//         }
+//         field(3967;"Disciplinary Stage Status";Option)
+//         {
+//             Editable = false;
+//             OptionCaption = ' ,Reported,Investigation ,Inprogress,Closed,Under review';
+//             OptionMembers = " ",Reported,"Investigation ",Inprogress,Closed,"Under review";
+//         }
+//         field(3968;"Document Type";Option)
+//         {
+//             OptionCaption = 'Quote,Order,Invoice,Credit Memo,Blanket Order,Return Order,None,Payment Voucher,Petty Cash,Imprest,Requisition,ImprestSurrender,Interbank,Receipt,Staff Claim,Staff Advance,AdvanceSurrender,Store Requisition,Employee Requisition,Leave Application,Transport Requisition,Training Requisition,Job Approval,Induction Approval,Disciplinary Approvals,Activity Approval';
+//             OptionMembers = Quote,"Order",Invoice,"Credit Memo","Blanket Order","Return Order","None","Payment Voucher","Petty Cash",Imprest,Requisition,ImprestSurrender,Interbank,Receipt,"Staff Claim","Staff Advance",AdvanceSurrender,"Store Requisition","Employee Requisition","Leave Application","Transport Requisition","Training Requisition","Job Approval","Induction Approval","Disciplinary Approvals","Activity Approval";
+//         }
+//         field(3969;"User ID";Code[50])
+//         {
+//         }
+//         field(3970;"Accused Employee Name";Text[100])
+//         {
+//         }
+//         field(3971;"Accussed By";Option)
+//         {
+//             OptionMembers = Employee,"Non-Employee";
+//         }
+//         field(3972;"Non Employee Name";Text[100])
+//         {
+
+//             trigger OnValidate()
+//             begin
+//                     IF "Accussed By"="Accussed By"::Employee THEN
+//                      ERROR('You are not allowed to Type Name if accused is an employee');
+//             end;
+//         }
+//         field(3973;Appealed;Boolean)
+//         {
+//         }
+//         field(50000;"Date of Complaint was Reported";Date)
+//         {
+//         }
+//         field(50001;"Severity Of the Complain";Option)
+//         {
+//             OptionMembers = Major,Minor;
+//         }
+//     }
+
+//     keys
+//     {
+//         key(Key1;"Accused Employee","Case Number")
+//         {
+//             Clustered = true;
+//         }
+//     }
+
+//     fieldgroups
+//     {
+//     }
+
+//     trigger OnInsert()
+//     begin
+//         //GENERATE NEW NUMBER FOR THE DOCUMENT
+//         IF "Case Number" = '' THEN BEGIN
+//           HRSetup.GET;
+//           HRSetup.TESTFIELD(HRSetup."Disciplinary Cases Nos.");
+//           NoSeriesMgt.InitSeries(HRSetup."Disciplinary Cases Nos.",xRec."No. Series",0D,"Case Number","No. Series");
+//         END;
+
+//          "User ID":=USERID;
+//          "Date of Complaint":=TODAY;
+//     end;
+
+//     trigger OnModify()
+//     begin
+//           /*IF Status=Status::"" THEN
+//           ERROR('You cannot modify a case Under Investigation');
+//            */
+
+//     end;
+
+//     var
+//         HRSetup: Record "HRM-Setup";
+//         //NoSeriesMgt: Codeunit 396;
+//         Emp: Record "HRM-Employee C";
+// }
+

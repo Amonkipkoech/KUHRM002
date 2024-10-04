@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="PerformanceCriteriaCode_PerformanceCriteria">
+          <DataField>PerformanceCriteriaCode_PerformanceCriteria</DataField>
+        </Field>
+        <Field Name="PerformanceCriterDescription_PerformanceCriteria">
+          <DataField>PerformanceCriterDescription_PerformanceCriteria</DataField>
+        </Field>
+        <Field Name="Directorates_PerformanceCriteria">
+          <DataField>Directorates_PerformanceCriteria</DataField>
+        </Field>
+        <Field Name="Departments_PerformanceCriteria">
+          <DataField>Departments_PerformanceCriteria</DataField>
+        </Field>
+        <Field Name="ActivityCode_PerformanceCriteriaLine">
+          <DataField>ActivityCode_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="TargetsDescription_PerformanceCriteriaLine">
+          <DataField>TargetsDescription_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="WorkplanCode_PerformanceCriteriaLine">
+          <DataField>WorkplanCode_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="GeneralNote_PerformanceCriteriaLine">
+          <DataField>GeneralNote_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="PerformanceCriteriaCategory_PerformanceCriteriaLine">
+          <DataField>PerformanceCriteriaCategory_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="PerformanceCriteriaDescripti_PerformanceCriteriaLine">
+          <DataField>PerformanceCriteriaDescripti_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="PerformanceStepDescription_PerformanceCriteriaLine">
+          <DataField>PerformanceStepDescription_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Comment_PerformanceCriteriaLine">
+          <DataField>Comment_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Directorates_PerformanceCriteriaLine">
+          <DataField>Directorates_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Departments_PerformanceCriteriaLine">
+          <DataField>Departments_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Quantity_PerformanceCriteriaLine">
+          <DataField>Quantity_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Quantity_PerformanceCriteriaLineFormat">
+          <DataField>Quantity_PerformanceCriteriaLineFormat</DataField>
+        </Field>
+        <Field Name="units_PerformanceCriteriaLine">
+          <DataField>units_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="PerformanceCriteriaStepCode_PerformanceCriteriaLine">
+          <DataField>PerformanceCriteriaStepCode_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Weights_PerformanceCriteriaLine">
+          <DataField>Weights_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Weights_PerformanceCriteriaLineFormat">
+          <DataField>Weights_PerformanceCriteriaLineFormat</DataField>
+        </Field>
+        <Field Name="Status_PerformanceCriteriaLine">
+          <DataField>Status_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Target_PerformanceCriteriaLine">
+          <DataField>Target_PerformanceCriteriaLine</DataField>
+        </Field>
+        <Field Name="Target_PerformanceCriteriaLineFormat">
+          <DataField>Target_PerformanceCriteriaLineFormat</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

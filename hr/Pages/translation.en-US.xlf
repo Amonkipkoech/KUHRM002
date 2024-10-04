@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 742426164 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Reports,Approval,Budgetary Control,Cancellation,Category7_caption,Category8_caption,Category9_caption,Category10_caption</source>
+          <target>New,Process,Reports,Approval,Budgetary Control,Cancellation,Category7_caption,Category8_caption,Category9_caption,Category10_caption</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Control 376583169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requestor ID</source>
+          <target>Requestor ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Control Cashier - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Control 3061111273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Control Payment Release Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Control 981725300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cheque/EFT No.</source>
+          <target>Cheque/EFT No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Control Cheque No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 634843985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Functions</source>
+          <target>&amp;Functions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action &amp;Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 3450061396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Payment and Print</source>
+          <target>Post Payment and Print</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Post Payment and Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 2932550446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Payment</source>
+          <target>Post Payment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Post Payment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 3860314472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approvals</source>
+          <target>Approvals</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Approvals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 4193159320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send A&amp;pproval Request</source>
+          <target>Send A&amp;pproval Request</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Send A&amp;pproval Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 2074535122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Approval Re&amp;quest</source>
+          <target>Cancel Approval Re&amp;quest</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Cancel Approval Re&amp;quest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 3335933324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Budgetary Availability</source>
+          <target>Check Budgetary Availability</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Check Budgetary Availability - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 2501399028 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Budget Commitment</source>
+          <target>Cancel Budget Commitment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Cancel Budget Commitment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 510732168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print/Preview</source>
+          <target>Print/Preview</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Print/Preview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 3821175371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Document</source>
+          <target>Cancel Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Cancel Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 3821175371 - Method 1377591017 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to Cancel this Document?</source>
+          <target>Are you sure you want to Cancel this Document?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Cancel Document - Method OnAction - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 742426164 - Action 3821175371 - Method 1377591017 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have selected not to Cancel this Document</source>
+          <target>You have selected not to Cancel this Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FIN-Staff Advance Req. - Action Cancel Document - Method OnAction - NamedType Text001</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

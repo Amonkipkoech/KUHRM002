@@ -1,0 +1,39 @@
+{
+  "id": "130e75cf-80c9-4e6c-91b7-3560ec402c3c",
+  "name": "ACA_HR Manager",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "propagateDependencies": true,
+  "dependencies": [
+    {
+      "id": "a9b28286-91a0-4a90-aa92-0e80427c41a5",
+      "name": "Base Extensions",
+      "publisher": "Appkings publisher",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "20.0.0.0",
+  "application": "20.0.0.0",
+    "idRanges": [
+    {
+      "from": 50000,
+      "to": 86000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": ["NoImplicitWith"],
+  "target": "OnPrem"
+}

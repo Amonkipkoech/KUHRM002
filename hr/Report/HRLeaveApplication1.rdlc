@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="CompName">
+          <DataField>CompName</DataField>
+        </Field>
+        <Field Name="FORMAT_TODAY_0_4_">
+          <DataField>FORMAT_TODAY_0_4_</DataField>
+        </Field>
+        <Field Name="COMPANYNAME">
+          <DataField>COMPANYNAME</DataField>
+        </Field>
+        <Field Name="CurrReport_PAGENO">
+          <DataField>CurrReport_PAGENO</DataField>
+        </Field>
+        <Field Name="USERID">
+          <DataField>USERID</DataField>
+        </Field>
+        <Field Name="LeaveNo_">
+          <DataField>LeaveNo_</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition_Date">
+          <DataField>HR_Leave_Requisition_Date</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Employee_No_">
+          <DataField>HR_Leave_Requisition__Employee_No_</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Employee_Name_">
+          <DataField>HR_Leave_Requisition__Employee_Name_</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Department_Code_">
+          <DataField>HR_Leave_Requisition__Department_Code_</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Applied_Days_">
+          <DataField>HR_Leave_Requisition__Applied_Days_</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Applied_Days_Format">
+          <DataField>HR_Leave_Requisition__Applied_Days_Format</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Starting_Date_">
+          <DataField>HR_Leave_Requisition__Starting_Date_</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__End_Date_">
+          <DataField>HR_Leave_Requisition__End_Date_</DataField>
+        </Field>
+        <Field Name="ReturnDate">
+          <DataField>ReturnDate</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition_Purpose">
+          <DataField>HR_Leave_Requisition_Purpose</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Leave_Type_">
+          <DataField>HR_Leave_Requisition__Leave_Type_</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Leave_Balance_">
+          <DataField>HR_Leave_Requisition__Leave_Balance_</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Leave_Balance_Format">
+          <DataField>HR_Leave_Requisition__Leave_Balance_Format</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition_Status">
+          <DataField>HR_Leave_Requisition_Status</DataField>
+        </Field>
+        <Field Name="LEAVE_APPLICATIONCaption">
+          <DataField>LEAVE_APPLICATIONCaption</DataField>
+        </Field>
+        <Field Name="CurrReport_PAGENOCaption">
+          <DataField>CurrReport_PAGENOCaption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__No__Caption">
+          <DataField>HR_Leave_Requisition__No__Caption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition_DateCaption">
+          <DataField>HR_Leave_Requisition_DateCaption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Employee_No_Caption">
+          <DataField>HR_Leave_Requisition__Employee_No_Caption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Department_Code_Caption">
+          <DataField>HR_Leave_Requisition__Department_Code_Caption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Applied_Days_Caption">
+          <DataField>HR_Leave_Requisition__Applied_Days_Caption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Starting_Date_Caption">
+          <DataField>HR_Leave_Requisition__Starting_Date_Caption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__End_Date_Caption">
+          <DataField>HR_Leave_Requisition__End_Date_Caption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition_PurposeCaption">
+          <DataField>HR_Leave_Requisition_PurposeCaption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Leave_Type_Caption">
+          <DataField>HR_Leave_Requisition__Leave_Type_Caption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition__Leave_Balance_Caption">
+          <DataField>HR_Leave_Requisition__Leave_Balance_Caption</DataField>
+        </Field>
+        <Field Name="HR_Leave_Requisition_StatusCaption">
+          <DataField>HR_Leave_Requisition_StatusCaption</DataField>
+        </Field>
+        <Field Name="NameCaption">
+          <DataField>NameCaption</DataField>
+        </Field>
+        <Field Name="Approval_Entry__Approver_ID_">
+          <DataField>Approval_Entry__Approver_ID_</DataField>
+        </Field>
+        <Field Name="Approval_Entry_Status">
+          <DataField>Approval_Entry_Status</DataField>
+        </Field>
+        <Field Name="Approval_Entry__Last_Date_Time_Modified_">
+          <DataField>Approval_Entry__Last_Date_Time_Modified_</DataField>
+        </Field>
+        <Field Name="APPROVALSCaption">
+          <DataField>APPROVALSCaption</DataField>
+        </Field>
+        <Field Name="APPROVER_IDCaption">
+          <DataField>APPROVER_IDCaption</DataField>
+        </Field>
+        <Field Name="APPROVAL_DATECaption">
+          <DataField>APPROVAL_DATECaption</DataField>
+        </Field>
+        <Field Name="APPROVAL_ACTIONCaption">
+          <DataField>APPROVAL_ACTIONCaption</DataField>
+        </Field>
+        <Field Name="Approval_Entry_Table_ID">
+          <DataField>Approval_Entry_Table_ID</DataField>
+        </Field>
+        <Field Name="Approval_Entry_Document_Type">
+          <DataField>Approval_Entry_Document_Type</DataField>
+        </Field>
+        <Field Name="Approval_Entry_Document_No_">
+          <DataField>Approval_Entry_Document_No_</DataField>
+        </Field>
+        <Field Name="Approval_Entry_Sequence_No_">
+          <DataField>Approval_Entry_Sequence_No_</DataField>
+        </Field>
+        <Field Name="ApprovalTitle">
+          <DataField>ApprovalTitle</DataField>
+        </Field>
+        <Field Name="ApprovalSignature">
+          <DataField>ApprovalSignature</DataField>
+        </Field>
+        <Field Name="ApproveDateTime">
+          <DataField>ApproveDateTime</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

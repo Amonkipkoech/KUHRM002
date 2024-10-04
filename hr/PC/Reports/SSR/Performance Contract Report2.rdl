@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="PerformanceCriterDescription_PerformanceCriteriaCascade2">
+          <DataField>PerformanceCriterDescription_PerformanceCriteriaCascade2</DataField>
+        </Field>
+        <Field Name="PerformanceCriteriaCode_PerformanceCriteriaCascade2">
+          <DataField>PerformanceCriteriaCode_PerformanceCriteriaCascade2</DataField>
+        </Field>
+        <Field Name="Blocked_PerformanceCriteriaCascade2">
+          <DataField>Blocked_PerformanceCriteriaCascade2</DataField>
+        </Field>
+        <Field Name="Directorates_PerformanceCriteriaCascade2">
+          <DataField>Directorates_PerformanceCriteriaCascade2</DataField>
+        </Field>
+        <Field Name="Departments_PerformanceCriteriaCascade2">
+          <DataField>Departments_PerformanceCriteriaCascade2</DataField>
+        </Field>
+        <Field Name="NoSeries_PerformanceCriteriaCascade2">
+          <DataField>NoSeries_PerformanceCriteriaCascade2</DataField>
+        </Field>
+        <Field Name="ContractPeriod_PerformanceCriteriaCascade2">
+          <DataField>ContractPeriod_PerformanceCriteriaCascade2</DataField>
+        </Field>
+        <Field Name="PerformanceCriteriaStepCode_PerfmncCriteriaLineCascade2">
+          <DataField>PerformanceCriteriaStepCode_PerfmncCriteriaLineCascade2</DataField>
+        </Field>
+        <Field Name="TargetForContractPeriod_PerfmncCriteriaLineCascade2">
+          <DataField>TargetForContractPeriod_PerfmncCriteriaLineCascade2</DataField>
+        </Field>
+        <Field Name="StatusLastContractPeriod_PerfmncCriteriaLineCascade2">
+          <DataField>StatusLastContractPeriod_PerfmncCriteriaLineCascade2</DataField>
+        </Field>
+        <Field Name="Weights_PerfmncCriteriaLineCascade2">
+          <DataField>Weights_PerfmncCriteriaLineCascade2</DataField>
+        </Field>
+        <Field Name="Weights_PerfmncCriteriaLineCascade2Format">
+          <DataField>Weights_PerfmncCriteriaLineCascade2Format</DataField>
+        </Field>
+        <Field Name="units_PerfmncCriteriaLineCascade2">
+          <DataField>units_PerfmncCriteriaLineCascade2</DataField>
+        </Field>
+        <Field Name="PerformanceStepDescription_PerfmncCriteriaLineCascade2">
+          <DataField>PerformanceStepDescription_PerfmncCriteriaLineCascade2</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

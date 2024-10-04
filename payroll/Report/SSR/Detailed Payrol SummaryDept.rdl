@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="GO">
+          <DataField>GO</DataField>
+        </Field>
+        <Field Name="SGO">
+          <DataField>SGO</DataField>
+        </Field>
+        <Field Name="DeptCodes">
+          <DataField>DeptCodes</DataField>
+        </Field>
+        <Field Name="DeptName">
+          <DataField>DeptName</DataField>
+        </Field>
+        <Field Name="DeptCodez">
+          <DataField>DeptCodez</DataField>
+        </Field>
+        <Field Name="DeptNames">
+          <DataField>DeptNames</DataField>
+        </Field>
+        <Field Name="UserId">
+          <DataField>UserId</DataField>
+        </Field>
+        <Field Name="DateToday">
+          <DataField>DateToday</DataField>
+        </Field>
+        <Field Name="PrintTime">
+          <DataField>PrintTime</DataField>
+        </Field>
+        <Field Name="pic">
+          <DataField>pic</DataField>
+        </Field>
+        <Field Name="PrintBy">
+          <DataField>PrintBy</DataField>
+        </Field>
+        <Field Name="CheckedBy">
+          <DataField>CheckedBy</DataField>
+        </Field>
+        <Field Name="VerifiedBy">
+          <DataField>VerifiedBy</DataField>
+        </Field>
+        <Field Name="ApprovedBy">
+          <DataField>ApprovedBy</DataField>
+        </Field>
+        <Field Name="BasicPayLbl">
+          <DataField>BasicPayLbl</DataField>
+        </Field>
+        <Field Name="payelbl">
+          <DataField>payelbl</DataField>
+        </Field>
+        <Field Name="nssflbl">
+          <DataField>nssflbl</DataField>
+        </Field>
+        <Field Name="nhiflbl">
+          <DataField>nhiflbl</DataField>
+        </Field>
+        <Field Name="Netpaylbl">
+          <DataField>Netpaylbl</DataField>
+        </Field>
+        <Field Name="payeamount">
+          <DataField>payeamount</DataField>
+        </Field>
+        <Field Name="payeamountFormat">
+          <DataField>payeamountFormat</DataField>
+        </Field>
+        <Field Name="nssfam">
+          <DataField>nssfam</DataField>
+        </Field>
+        <Field Name="nssfamFormat">
+          <DataField>nssfamFormat</DataField>
+        </Field>
+        <Field Name="nhifamt">
+          <DataField>nhifamt</DataField>
+        </Field>
+        <Field Name="nhifamtFormat">
+          <DataField>nhifamtFormat</DataField>
+        </Field>
+        <Field Name="NetPay">
+          <DataField>NetPay</DataField>
+        </Field>
+        <Field Name="NetPayFormat">
+          <DataField>NetPayFormat</DataField>
+        </Field>
+        <Field Name="BasicPay">
+          <DataField>BasicPay</DataField>
+        </Field>
+        <Field Name="BasicPayFormat">
+          <DataField>BasicPayFormat</DataField>
+        </Field>
+        <Field Name="GrossPay">
+          <DataField>GrossPay</DataField>
+        </Field>
+        <Field Name="GrossPayFormat">
+          <DataField>GrossPayFormat</DataField>
+        </Field>
+        <Field Name="Pens">
+          <DataField>Pens</DataField>
+        </Field>
+        <Field Name="PensFormat">
+          <DataField>PensFormat</DataField>
+        </Field>
+        <Field Name="periods">
+          <DataField>periods</DataField>
+        </Field>
+        <Field Name="empNo">
+          <DataField>empNo</DataField>
+        </Field>
+        <Field Name="empName">
+          <DataField>empName</DataField>
+        </Field>
+        <Field Name="TransCode">
+          <DataField>TransCode</DataField>
+        </Field>
+        <Field Name="TransName">
+          <DataField>TransName</DataField>
+        </Field>
+        <Field Name="TransAmount">
+          <DataField>TransAmount</DataField>
+        </Field>
+        <Field Name="TransAmountFormat">
+          <DataField>TransAmountFormat</DataField>
+        </Field>
+        <Field Name="TransBalance">
+          <DataField>TransBalance</DataField>
+        </Field>
+        <Field Name="TransBalanceFormat">
+          <DataField>TransBalanceFormat</DataField>
+        </Field>
+        <Field Name="OrigAmount">
+          <DataField>OrigAmount</DataField>
+        </Field>
+        <Field Name="OrigAmountFormat">
+          <DataField>OrigAmountFormat</DataField>
+        </Field>
+        <Field Name="GroupText">
+          <DataField>GroupText</DataField>
+        </Field>
+        <Field Name="GroupOrder">
+          <DataField>GroupOrder</DataField>
+        </Field>
+        <Field Name="SubGroupOrder">
+          <DataField>SubGroupOrder</DataField>
+        </Field>
+        <Field Name="compName">
+          <DataField>compName</DataField>
+        </Field>
+        <Field Name="constituentName">
+          <DataField>constituentName</DataField>
+        </Field>
+        <Field Name="address">
+          <DataField>address</DataField>
+        </Field>
+        <Field Name="city">
+          <DataField>city</DataField>
+        </Field>
+        <Field Name="email">
+          <DataField>email</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

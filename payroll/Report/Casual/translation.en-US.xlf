@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 584653204 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - Control 3067877642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalment</source>
+          <target>Instalment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - Control InstalmentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 2376945931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType Employee_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 689524896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType EmptyStringCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 4102208217" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType Department_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 1178227014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.............EMPLOYEE DETAIL..........</source>
+          <target>.............EMPLOYEE DETAIL..........</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType P_I_N_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 1090951172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType Employee_Caption_Control1102755158Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 3781007441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType Department_Caption_Control1102755159Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 1528724113" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType Period_Caption_Control1102755163Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 3614538807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P.I.N No:</source>
+          <target>P.I.N No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType P_I_N_No_Caption_Control1102755165Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 334683228" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType EmptyStringCaption_Control1102755166Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 3629302350" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType BALANCECaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 1764704100" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType AMOUNTCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 3668115992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType AMOUNTCaption_Control1102755320Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 584653204 - NamedType 2300154193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Individual Payslips - NamedType BALANCECaption_Control1102755321Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 4107939926" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NATIONAL HOSPITAL INSURANCE FUND</source>
+          <target>NATIONAL HOSPITAL INSURANCE FUND</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType NATIONAL_HOSPITAL_INSURANCE_FUNDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 2652801318" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name:</source>
+          <target>User Name:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType User_Name_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 1741885843" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Date:</source>
+          <target>Print Date:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Print_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 1317709266" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page No:</source>
+          <target>Page No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Page_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 918371694" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PERIOD:</source>
+          <target>PERIOD:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType PERIOD_Caption_Control1102755032Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 2987219823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ADDRESS:</source>
+          <target>ADDRESS:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType ADDRESS_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 3178986218" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPLOYER:</source>
+          <target>EMPLOYER:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType EMPLOYER_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 427825441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPOLOYER NO:</source>
+          <target>EMPOLOYER NO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType EMPOLOYER_NO_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 3246075084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPLOYER PIN NO:</source>
+          <target>EMPLOYER PIN NO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType EMPLOYER_PIN_NO_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 720624772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TEL NO:</source>
+          <target>TEL NO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType TEL_NO_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 51796030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID Number:</source>
+          <target>ID Number:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType ID_Number_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 1097223896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NHIF No:</source>
+          <target>NHIF No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType NHIF_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 2339413354" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Name</source>
+          <target>Employee Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Employee_NameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 3211442742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No:</source>
+          <target>No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 1222666800" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Of Birth</source>
+          <target>Date Of Birth</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Date_Of_BirthCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 1626365851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepared by……………………………………………………..                 Date……………………………………………</source>
+          <target>Prepared by……………………………………………………..                 Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Prepared_by_______________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 3194721160" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checked by…………………………………………………..                   Date……………………………………………</source>
+          <target>Checked by…………………………………………………..                   Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Checked_by________________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 535351584" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorized by……………………………………………………..              Date……………………………………………</source>
+          <target>Authorized by……………………………………………………..              Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Authorized_by____________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 3316049353" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total NHIF:</source>
+          <target>Total NHIF:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Total_NHIF_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3914661023 - NamedType 3110647772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved by……………………………………………………..                Date……………………………………………</source>
+          <target>Approved by……………………………………………………..                Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NHIF - NamedType Approved_by______________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 3392003035" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NATIONAL SOCIAL SECURITY FUND</source>
+          <target>NATIONAL SOCIAL SECURITY FUND</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType NATIONAL_SOCIAL_SECURITY_FUNDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 2652801318" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name:</source>
+          <target>User Name:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType User_Name_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 1741885843" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Date:</source>
+          <target>Print Date:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Print_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 1317709266" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page No:</source>
+          <target>Page No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Page_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 1859412363" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PERIOD:</source>
+          <target>PERIOD:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType PERIOD_Caption_Control1102755031Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 326735572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPLOYER NO:</source>
+          <target>EMPLOYER NO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType EMPLOYER_NO_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 1208610490" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPLOYER NAME:</source>
+          <target>EMPLOYER NAME:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType EMPLOYER_NAME_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 540344668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payroll No:</source>
+          <target>Payroll No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Payroll_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 2339413354" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Name</source>
+          <target>Employee Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Employee_NameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 4072252415" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NSSF No:</source>
+          <target>NSSF No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType NSSF_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 51796030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID Number:</source>
+          <target>ID Number:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType ID_Number_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 3029860558" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vol Amount</source>
+          <target>Vol Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Vol_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 745995215" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <target>Total Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Total_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 3914699375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Amount</source>
+          <target>Employee Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Employee_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 1573588534" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employer Amount</source>
+          <target>Employer Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Employer_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 3251983059" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amounts:</source>
+          <target>Total Amounts:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Total_Amounts_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 1626365851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepared by……………………………………………………..                 Date……………………………………………</source>
+          <target>Prepared by……………………………………………………..                 Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Prepared_by_______________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 3194721160" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checked by…………………………………………………..                   Date……………………………………………</source>
+          <target>Checked by…………………………………………………..                   Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Checked_by________________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 535351584" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorized by……………………………………………………..              Date……………………………………………</source>
+          <target>Authorized by……………………………………………………..              Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Authorized_by____________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1187972040 - NamedType 3110647772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved by……………………………………………………..                Date……………………………………………</source>
+          <target>Approved by……………………………………………………..                Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF - NamedType Approved_by______________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - Control 3067877642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalment</source>
+          <target>Instalment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - Control InstalmentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 2376945931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType Employee_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 689524896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType EmptyStringCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 4102208217" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType Department_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 1178227014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.............EMPLOYEE DETAIL..........</source>
+          <target>.............EMPLOYEE DETAIL..........</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType P_I_N_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 1090951172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType Employee_Caption_Control1102755158Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 3781007441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType Department_Caption_Control1102755159Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 1528724113" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType Period_Caption_Control1102755163Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 3614538807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P.I.N No:</source>
+          <target>P.I.N No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType P_I_N_No_Caption_Control1102755165Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 334683228" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType EmptyStringCaption_Control1102755166Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 3629302350" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType BALANCECaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 1764704100" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType AMOUNTCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 3668115992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType AMOUNTCaption_Control1102755320Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3581177164 - NamedType 2300154193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casuals Summary Report - NamedType BALANCECaption_Control1102755321Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 2376945931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType Employee_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 689524896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType EmptyStringCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 4102208217" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType Department_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 1178227014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.............EMPLOYEE DETAIL..........</source>
+          <target>.............EMPLOYEE DETAIL..........</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType P_I_N_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 1090951172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType Employee_Caption_Control1102755158Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 3781007441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType Department_Caption_Control1102755159Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 1528724113" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType Period_Caption_Control1102755163Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 3614538807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P.I.N No:</source>
+          <target>P.I.N No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType P_I_N_No_Caption_Control1102755165Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 334683228" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType EmptyStringCaption_Control1102755166Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 3629302350" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType BALANCECaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 1764704100" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType AMOUNTCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 3668115992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType AMOUNTCaption_Control1102755320Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1077096439 - NamedType 2300154193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual- Payslip (Horizontal) - NamedType BALANCECaption_Control1102755321Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 59124900 - Control 912261439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual Payroll Summary - Control Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 59124900 - Control 3633084305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalment</source>
+          <target>Instalment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual Payroll Summary - Control Instalment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3348419482 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Deductions Summary 2 - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3348419482 - Control 4167499953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalment</source>
+          <target>Instalment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Deductions Summary 2 - Control NoOfInstalment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3348419482 - NamedType 2018001435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for </source>
+          <target>Total for </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Deductions Summary 2 - NamedType TotalFor</note>
+        </trans-unit>
+        <trans-unit id="Report 114593147 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual - Payments Summary - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 114593147 - Control 2686273832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalments</source>
+          <target>Instalments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual - Payments Summary - Control NoOfInstalments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 114593147 - NamedType 2018001435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for </source>
+          <target>Total for </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual - Payments Summary - NamedType TotalFor</note>
+        </trans-unit>
+        <trans-unit id="Report 228698709 - Control 3751146169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <target>Date Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual - NHIF Report - Control DateFil - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 228698709 - Control 3858173192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NoOfInstalments</source>
+          <target>NoOfInstalments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual - NHIF Report - Control NoofInstalments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1872038446 - Control 3751146169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <target>Date Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual - NSSF Report (A) - Control DateFil - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1872038446 - Control 2686273832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>instalment</source>
+          <target>instalment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual - NSSF Report (A) - Control NoOfInstalments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3223662195 - Control 3751146169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <target>Date Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF Report (B) - Control DateFil - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3223662195 - Control 2686273832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalments</source>
+          <target>Instalments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-NSSF Report (B) - Control NoOfInstalments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2587926335 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Company Payslip - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2587926335 - Control 1883312996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalments</source>
+          <target>Instalments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Company Payslip - Control Instaments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2587926335 - NamedType 2018001435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for </source>
+          <target>Total for </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Casual-Company Payslip - NamedType TotalFor</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - Control 3067877642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalment</source>
+          <target>Instalment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - Control InstalmentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 2376945931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType Employee_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 689524896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType EmptyStringCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 4102208217" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType Department_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 1178227014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.............EMPLOYEE DETAIL..........</source>
+          <target>.............EMPLOYEE DETAIL..........</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType P_I_N_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 1090951172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType Employee_Caption_Control1102755158Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 3781007441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType Department_Caption_Control1102755159Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 1528724113" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType Period_Caption_Control1102755163Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 3614538807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P.I.N No:</source>
+          <target>P.I.N No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType P_I_N_No_Caption_Control1102755165Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 334683228" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType EmptyStringCaption_Control1102755166Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 3629302350" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType BALANCECaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 1764704100" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType AMOUNTCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 3668115992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType AMOUNTCaption_Control1102755320Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1731474712 - NamedType 2300154193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Individual Payslips - NamedType BALANCECaption_Control1102755321Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 4107939926" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NATIONAL HOSPITAL INSURANCE FUND</source>
+          <target>NATIONAL HOSPITAL INSURANCE FUND</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType NATIONAL_HOSPITAL_INSURANCE_FUNDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 2652801318" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name:</source>
+          <target>User Name:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType User_Name_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 1741885843" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Date:</source>
+          <target>Print Date:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Print_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 1317709266" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page No:</source>
+          <target>Page No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Page_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 918371694" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PERIOD:</source>
+          <target>PERIOD:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType PERIOD_Caption_Control1102755032Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 2987219823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ADDRESS:</source>
+          <target>ADDRESS:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType ADDRESS_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 3178986218" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPLOYER:</source>
+          <target>EMPLOYER:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType EMPLOYER_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 427825441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPOLOYER NO:</source>
+          <target>EMPOLOYER NO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType EMPOLOYER_NO_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 3246075084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPLOYER PIN NO:</source>
+          <target>EMPLOYER PIN NO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType EMPLOYER_PIN_NO_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 720624772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TEL NO:</source>
+          <target>TEL NO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType TEL_NO_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 51796030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID Number:</source>
+          <target>ID Number:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType ID_Number_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 1097223896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NHIF No:</source>
+          <target>NHIF No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType NHIF_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 2339413354" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Name</source>
+          <target>Employee Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Employee_NameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 3211442742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No:</source>
+          <target>No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 1222666800" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Of Birth</source>
+          <target>Date Of Birth</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Date_Of_BirthCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 1626365851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepared by……………………………………………………..                 Date……………………………………………</source>
+          <target>Prepared by……………………………………………………..                 Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Prepared_by_______________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 3194721160" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checked by…………………………………………………..                   Date……………………………………………</source>
+          <target>Checked by…………………………………………………..                   Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Checked_by________________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 535351584" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorized by……………………………………………………..              Date……………………………………………</source>
+          <target>Authorized by……………………………………………………..              Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Authorized_by____________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 3316049353" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total NHIF:</source>
+          <target>Total NHIF:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Total_NHIF_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3247292191 - NamedType 3110647772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved by……………………………………………………..                Date……………………………………………</source>
+          <target>Approved by……………………………………………………..                Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NHIF - NamedType Approved_by______________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 3392003035" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NATIONAL SOCIAL SECURITY FUND</source>
+          <target>NATIONAL SOCIAL SECURITY FUND</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType NATIONAL_SOCIAL_SECURITY_FUNDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 2652801318" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name:</source>
+          <target>User Name:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType User_Name_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 1741885843" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Date:</source>
+          <target>Print Date:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Print_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 1317709266" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page No:</source>
+          <target>Page No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Page_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 1859412363" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PERIOD:</source>
+          <target>PERIOD:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType PERIOD_Caption_Control1102755031Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 326735572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPLOYER NO:</source>
+          <target>EMPLOYER NO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType EMPLOYER_NO_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 1208610490" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPLOYER NAME:</source>
+          <target>EMPLOYER NAME:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType EMPLOYER_NAME_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 540344668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payroll No:</source>
+          <target>Payroll No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Payroll_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 2339413354" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Name</source>
+          <target>Employee Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Employee_NameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 4072252415" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NSSF No:</source>
+          <target>NSSF No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType NSSF_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 51796030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID Number:</source>
+          <target>ID Number:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType ID_Number_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 3029860558" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vol Amount</source>
+          <target>Vol Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Vol_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 745995215" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <target>Total Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Total_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 3914699375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Amount</source>
+          <target>Employee Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Employee_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 1573588534" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employer Amount</source>
+          <target>Employer Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Employer_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 3251983059" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amounts:</source>
+          <target>Total Amounts:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Total_Amounts_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 1626365851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepared by……………………………………………………..                 Date……………………………………………</source>
+          <target>Prepared by……………………………………………………..                 Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Prepared_by_______________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 3194721160" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checked by…………………………………………………..                   Date……………………………………………</source>
+          <target>Checked by…………………………………………………..                   Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Checked_by________________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 535351584" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorized by……………………………………………………..              Date……………………………………………</source>
+          <target>Authorized by……………………………………………………..              Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Authorized_by____________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 520603208 - NamedType 3110647772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved by……………………………………………………..                Date……………………………………………</source>
+          <target>Approved by……………………………………………………..                Date……………………………………………</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-NSSF - NamedType Approved_by______________________________________Date_________________CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 2376945931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType Employee_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 689524896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType EmptyStringCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 4102208217" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType Department_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 1820252298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType Period_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 1178227014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.............EMPLOYEE DETAIL..........</source>
+          <target>.............EMPLOYEE DETAIL..........</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType P_I_N_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 1090951172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee:</source>
+          <target>Employee:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType Employee_Caption_Control1102755158Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 3781007441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department:</source>
+          <target>Department:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType Department_Caption_Control1102755159Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 1528724113" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType Period_Caption_Control1102755163Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 3614538807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P.I.N No:</source>
+          <target>P.I.N No:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType P_I_N_No_Caption_Control1102755165Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 334683228" size-unit="char" translate="yes" xml:space="preserve">
+          <source>..................................................</source>
+          <target>..................................................</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType EmptyStringCaption_Control1102755166Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 3629302350" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType BALANCECaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 1764704100" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType AMOUNTCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 3668115992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMOUNT</source>
+          <target>AMOUNT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType AMOUNTCaption_Control1102755320Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2598715651 - NamedType 2300154193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BALANCE</source>
+          <target>BALANCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl- Payslip (Horizontal) - NamedType BALANCECaption_Control1102755321Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662169380 - Control 912261439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period:</source>
+          <target>Period:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP Payroll Summary - Control Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2662169380 - Control 3633084305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalment</source>
+          <target>Instalment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP Payroll Summary - Control Instalment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4222843814 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Deductions Summary 2 - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4222843814 - Control 4167499953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalment</source>
+          <target>Instalment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Deductions Summary 2 - Control NoOfInstalment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4222843814 - NamedType 2018001435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for </source>
+          <target>Total for </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IPl-Deductions Summary 2 - NamedType TotalFor</note>
+        </trans-unit>
+        <trans-unit id="Report 3981273083 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP - Payments Summary - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3981273083 - Control 2686273832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalments</source>
+          <target>Instalments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP - Payments Summary - Control NoOfInstalments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3981273083 - NamedType 2018001435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for </source>
+          <target>Total for </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP - Payments Summary - NamedType TotalFor</note>
+        </trans-unit>
+        <trans-unit id="Report 896003519 - Control 1060428119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Filter</source>
+          <target>Period Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-Company Payslip - Control periodfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 896003519 - Control 1883312996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instalments</source>
+          <target>Instalments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-Company Payslip - Control Instaments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 896003519 - NamedType 2018001435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for </source>
+          <target>Total for </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report IP-Company Payslip - NamedType TotalFor</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
