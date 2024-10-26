@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://198.154.112.39:8080/KU/",
+            "server": "http://197.136.154.33:8080/KU/",
             "serverInstance": "KU",
             "authentication": "UserPassword",
             "startupObjectId": 22,
